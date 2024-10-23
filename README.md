@@ -9,7 +9,7 @@
 年龄：22</b></p >
     </td>
     <td width="25%">
-      <img src="/1.jpg" width="100%">   
+      <img src="1.jpg" width="100%">   
     </td>
   </tr>
 </table>
